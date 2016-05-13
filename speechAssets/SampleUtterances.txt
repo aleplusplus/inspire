@@ -1,0 +1,10 @@
+InspireIntent say inspire
+InspireIntent inspire
+InspireIntent say inspire me
+InspireIntent inspire me
+InspireIntent say inspiration
+InspireIntent inspiration
+InspireIntent say inspiring
+InspireIntent inspiring
+InspireIntent say inspiring quote
+InspireIntent inspiring quote
